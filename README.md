@@ -16,10 +16,11 @@ The project has two applications started which are the
 
 ## Current Status
 The project is still under development with issues on the user authentication section which is being worked on at the moment.
-The styling of the project has been done in bootsrap
+
 
 ## Usuage
 The project would help groups of people that work in teams where the team leader can generate a boad and the team members can contribute to the board as they share discussions
 
 ## Tech Stack
-currently the project is completely sa django mvc project running on the django ORM, Django template language and the Django form authentication
+currently the project is completely sa django mvc project running on the django ORM, Django template language and the Django form authentication.
+The styling of the project has been done in bootsrap
