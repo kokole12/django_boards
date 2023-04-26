@@ -9,10 +9,10 @@ The project is part of my Djnago learning series which helped me understand Djan
 ## Project structure
 The project has two applications started which are the
 * The boards applications
-  This application handles the creation of the boards, topics and posts
+  * This application handles the creation of the boards, topics and posts
 * The accounts application
-  This application handles the authentication of the users
-The rest is pure django setup folder structure 
+  * This application handles the authentication of the users
+### The rest is pure django setup folder structure 
 
 ## Current Status
 The project is still under development with issues on the user authentication section which is being worked on at the moment
