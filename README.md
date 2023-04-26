@@ -15,7 +15,8 @@ The project has two applications started which are the
 ### The rest is pure django setup folder structure 
 
 ## Current Status
-The project is still under development with issues on the user authentication section which is being worked on at the moment
+The project is still under development with issues on the user authentication section which is being worked on at the moment.
+The styling of the project has been done in bootsrap
 
 ## Usuage
 The project would help groups of people that work in teams where the team leader can generate a boad and the team members can contribute to the board as they share discussions
